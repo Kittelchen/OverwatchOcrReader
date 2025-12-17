@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverwatchOcrReader", "OverwatchOcrReader\OverwatchOcrReader.csproj", "{B92BD7F4-21B9-4E0C-B801-ED9541D2D79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverwatchOcrReader.Desktop", "OverwatchOcrReader.Desktop\OverwatchOcrReader.Desktop.csproj", "{7CAB6357-19AC-4E80-BB81-BB7B6D452A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92BD7F4-21B9-4E0C-B801-ED9541D2D79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92BD7F4-21B9-4E0C-B801-ED9541D2D79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92BD7F4-21B9-4E0C-B801-ED9541D2D79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92BD7F4-21B9-4E0C-B801-ED9541D2D79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CAB6357-19AC-4E80-BB81-BB7B6D452A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAB6357-19AC-4E80-BB81-BB7B6D452A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAB6357-19AC-4E80-BB81-BB7B6D452A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAB6357-19AC-4E80-BB81-BB7B6D452A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
