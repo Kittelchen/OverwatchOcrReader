@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverwatchOcrReader", "Overw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverwatchOcrReader.Desktop", "OverwatchOcrReader.Desktop\OverwatchOcrReader.Desktop.csproj", "{7CAB6357-19AC-4E80-BB81-BB7B6D452A61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverwatchLibrary", "OverwatchLibrary\OverwatchLibrary.csproj", "{8AD22FE2-24A5-4C12-987B-47880B5F730E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7CAB6357-19AC-4E80-BB81-BB7B6D452A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CAB6357-19AC-4E80-BB81-BB7B6D452A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CAB6357-19AC-4E80-BB81-BB7B6D452A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD22FE2-24A5-4C12-987B-47880B5F730E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD22FE2-24A5-4C12-987B-47880B5F730E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD22FE2-24A5-4C12-987B-47880B5F730E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD22FE2-24A5-4C12-987B-47880B5F730E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
