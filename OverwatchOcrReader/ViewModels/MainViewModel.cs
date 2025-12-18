@@ -1,4 +1,6 @@
 ﻿using OverwatchLibrary;
+using OverwatchLibrary.Factories;
+using OverwatchLibrary.Interfaces;
 
 namespace OverwatchOcrReader.ViewModels;
 
@@ -8,6 +10,6 @@ public partial class MainViewModel : ViewModelBase
 
     public MainViewModel()
     {
-        //Class1 class1 = new Class1();
+        IHero hero01 = HeroFactory.CreateHero("DUMMY");
     }
 }
